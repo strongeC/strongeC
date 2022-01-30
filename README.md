@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @strongeC
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a automation projects.
-- 📫 How to reach me by e-mail.
+- 👀 I’m interested in Python and JS
+- 🌱 I’m currently learning Python and JS
+- 💞️ I’m looking to collaborate on some kind of projects.
+- 📫 How to reach me by e-mail. canberkbayrak@gmail.com
 
 <!---
 strongeC/strongeC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
